@@ -1,13 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c1e5e8a7-d10d-48b6-91d0-505c7efe981c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/common.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/QiGuaController.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/gua64.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/yao368.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/default.go" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/default.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/router.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.14.4/libexec" />
   <component name="Git.Settings">
@@ -22,6 +55,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
@@ -34,6 +68,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
     <environment>
@@ -43,6 +88,10 @@
     </environment>
   </component>
   <component name="WindowStateProjectService">
+    <state x="100" y="118" width="1240" height="597" key="DiffContextDialog" timestamp="1611479028632">
+      <screen x="0" y="0" width="1440" height="815" />
+    </state>
+    <state x="100" y="118" width="1240" height="597" key="DiffContextDialog/0.0.1440.815/1440.132.1024.768@0.0.1440.815" timestamp="1611479028632" />
     <state x="-994" y="285" key="EnvironmentVariablesDialog" timestamp="1606987251199">
       <screen x="-1920" y="-82" width="1920" height="1000" />
     </state>
@@ -51,5 +100,13 @@
       <screen x="-1920" y="-82" width="1920" height="1000" />
     </state>
     <state x="-1392" y="55" key="SettingsEditor/0.0.1440.900/-1920.-82.1920.1000@-1920.-82.1920.1000" timestamp="1606987256015" />
+    <state x="1440" y="132" width="1024" height="725" key="dock-window-1" timestamp="1611411847687">
+      <screen x="1440" y="132" width="1024" height="768" />
+    </state>
+    <state x="1440" y="132" width="1024" height="725" key="dock-window-1/0.0.1440.815/1440.132.1024.768@0.0.1440.815" timestamp="1611411847687" />
+    <state x="421" y="49" width="597" height="735" key="find.popup" timestamp="1611414038406">
+      <screen x="0" y="0" width="1440" height="815" />
+    </state>
+    <state x="421" y="49" width="597" height="735" key="find.popup/0.0.1440.815/1440.132.1024.768@0.0.1440.815" timestamp="1611414038406" />
   </component>
 </project>
